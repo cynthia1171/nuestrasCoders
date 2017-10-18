@@ -1,0 +1,101 @@
+body{
+	background-color: #fff;
+	font-family: 'Arvo', serif;
+}
+
+hr{
+	position: relative;
+	top: 25px;
+}
+
+#logo{
+	display: block;
+	width: 250px;
+	margin: 0 auto;
+}
+
+main{
+	padding-left: 100px;
+	padding-right: 100px;
+	position: relative;
+	top: 40px;
+	display: block;
+}
+
+#linea{
+	width: 100px;
+	border: 3px solid #000;
+}
+
+#caro{
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	background-image: url(../img/caro.jpg);
+	background-size: 100%;
+	margin-top: 50px;
+	margin-left: 50px;
+
+}
+
+#jiji{
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	background-image: url(../img/jiji.jpg);
+	background-size: 100%;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+#ichi{
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	background-image: url(../img/ichi.jpg);
+	background-size: 100%;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+#jose{
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	background-image: url(../img/jose.jpg);
+	background-size: 100%;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+#vero{
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	background-image: url(../img/vero.jpg);
+	background-size: 100%;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+#cynthia{
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	background-image: url(../img/cynthia.jpg);
+	background-size: 100%;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+h2{
+	position: relative;
+	top:248px;
+	color:#fff;
+	background-color:#000;
+	padding:2px 15px;
+	opacity:0.5;
+	font-weight:bold;
+}
+
+
